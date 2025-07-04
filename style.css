@@ -1,4 +1,19 @@
 body {
 background-color: black ;
 color:blueviolet ;
+ font-family: "Manufacturing Consent", system-ui;
+}
+
+header{
+ font-family: "Playfair Display", serif;
+ font-size:60px ;
+ border-bottom: double 5px rgb(74, 0, 74);
+ padding: 50px;
+ text-align: center;
+}
+h1{
+    font-size:30px ;
+}
+p1{
+    font-size:20px ;
 }
